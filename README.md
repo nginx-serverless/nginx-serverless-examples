@@ -2,7 +2,7 @@
 
 NGINX Serverless Gateway Core, Reference Implementation, Use Case Examples w/ AWS Lambda, Azure Functions, Google Cloud Functions Integration.
 
-## NGINX Serverless Payment Gateway
+## NGINX Serverless Payment Gateway for API Monetization
 
 ![](./docs/img/nginx-serverless-payment.png)
 
